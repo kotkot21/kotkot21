@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kotkot21 and my name is ahmad naser
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate with a Cyber security company
+- 👀 I’m computer science student
+- 🌱 I’m in my 4th year in birzeit university
 - 📫 How to reach me abua6937@gmail.com
 
 <!---
