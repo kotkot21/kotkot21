@@ -1,9 +1,27 @@
-- 👋 Hi, I’m @kotkot21 and my name is ahmad naser
-- 👀 I’m computer science student
-- 🌱 I’m in my 4th year in birzeit university
-- 📫 How to reach me abua6937@gmail.com
+### Hi there 👋, my name is Ahmad
+#### I’m computer science student
+- **Java:** I have experience in Java programming and have worked on [mention any specific project or area where you used Java].
+- **HTML/CSS:** Proficient in building and styling web pages using HTML and CSS.
+- **PHP:** Skilled in server-side scripting with PHP.
+- **C:** I have a strong foundation in the C programming language.
 
-<!---
-kotkot21/kotkot21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Skills: Java,HTML,CSS,PHP,C
+
+- 🌱 I’m currently learning Python and AI 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kotkot21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/kot.kota21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ahmad_barkat21/)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kotkot21)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotkot21)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kotkot21&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/kotkot21)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=kotkot21)  
+
