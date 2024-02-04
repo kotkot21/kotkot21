@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90)
+
+
 ### Hi there 👋, my name is Ahmad
 #### I’m computer science student
 - **Java:** I have experience in Java programming and have worked on [mention any specific project or area where you used Java].
