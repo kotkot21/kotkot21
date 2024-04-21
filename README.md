@@ -3,7 +3,7 @@
 
 ### Hi there 👋, my name is Ahmad
 #### I’m computer science student
-- **Java:** I have experience in Java programming and have worked on [mention any specific project or area where you used Java].
+- **Java:** I have experience in Java programming.
 - **HTML/CSS:** Proficient in building and styling web pages using HTML and CSS.
 - **PHP:** Skilled in server-side scripting with PHP.
 - **C:** I have a strong foundation in the C programming language.
